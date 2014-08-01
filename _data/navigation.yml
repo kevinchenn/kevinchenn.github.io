@@ -2,5 +2,15 @@
 
 - title: About
   url: /about/
-  excerpt: "Who is Kevin Chen?"
+  excerpt: "Who am I?"
+  image:
+
+- title: Projects
+  url: /projects/
+  excerpt: "Things I've Built"
+  image:
+
+- title: Blog
+  url: /blog/
+  excerpt: "My thoughts"
   image:
