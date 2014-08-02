@@ -2,9 +2,9 @@
 
 title: Kevin Chen
 description: Every mountain is considered unclimbable until someone climbs it
-logo: # 120x120 px default image used for Twitter summary card
-teaser: # 400x250 px default teaser image used in image archive grid
-locale:
+logo: logo120x120.jpg # 120x120 px default image used for Twitter summary card
+teaser: excerpts/logo.jpg # 400x250 px default teaser image used in image archive grid
+locale: 
 url: http://localhost:4000
 url: http://kevinchenn.github.io
 url:
@@ -23,9 +23,9 @@ gems:
 
 # Site owner
 owner:
-  name:
-  email:
-  twitter:
+  name: Kevin Chen
+  email: kevinchen8223@gmail.com
+  twitter: kevinchvn
   google:
     ad-client: 
     ad-slot: 
